@@ -116,3 +116,7 @@ weather data and scikit-learn regression algorithms.
 ---
 
 Built with ❤️ — your personal dev archive, forever organized.
+
+
+Copyright (C) 2026 Ayush Singh
+Licensed under GNU GPL v3
